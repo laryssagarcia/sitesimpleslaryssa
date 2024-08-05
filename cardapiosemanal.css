@@ -3,13 +3,13 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    background-color: rgb(191, 255, 191);
+    background-color: rgb(219, 241, 219);
   }
   main {
     padding: 20px 0px;
     display: flex;
     justify-content: space-around;
-    background-color: rgb(227, 255, 172);
+    background-color: rgb(190, 255, 201);
   }
   section, aside {
     width: 45%;
