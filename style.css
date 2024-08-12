@@ -104,7 +104,7 @@ nav li a:hover{
 }
 .overlay-button {
     display: inline-block;
-    background-color: white;
+    background-color: rgb(175, 175, 175);
     color: black;
     border: none;
     padding: 10px 20px;
@@ -117,13 +117,13 @@ nav li a:hover{
 
 .overlay-button:hover {
     background-color: black;
-    color: white;
+    color: rgb(146, 146, 146);
     text-decoration: none;
 }
 
 .n-overlay a{
     background-color: black;
-    color: white;
+    color: rgb(179, 179, 179);
 }
 footer {
     background-color: #333;
